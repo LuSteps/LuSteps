@@ -1,5 +1,39 @@
 ### Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=LuSteps&color=blue" alt="GitHub Visitor Count">
+
+## 🦰 About Me
+- 🚀 I'm an enthusiastic Computer Science Undergraduate Student
+- 🔭 I’m currently striving to learn Deep Learning in Tensorflow and Keras
+- 🌱 I’m currently working on Deep Learning projects such as Transformer and LSTM
+
+## 🔗 Contact Me!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennislimkamho/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennis313lim@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/773732092944973864)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_dennislim/)
+
+## 📖 Skills
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![github stat](https://github-readme-stats.vercel.app/api/top-langs/?username=LuSteps&theme=blue-green)
+
+
 <!--
 **LuSteps/LuSteps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,35 +48,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://komarev.com/ghpvc/?username=LuSteps&color=blue" alt="GitHub Visitor Count">
-
-## 🦰 About Me
-- 🚀 I'm an aspiring Computer Science Student
-- 🔭 I’m currently working on a Website Project 
-- 🌱 I’m currently learning Web Programming and Machine Learning
-
-## 🔗 Links
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_dennislim/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennislimkamho/)
-
-## 📖 Skills
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## 💻 Projects
-- [Tanaka Guitar Website](https://github.com/JonathanwII/Tanaka-Guitar-Website)
-- [Astronomy Website](https://github.com/JonathanwII/Astronomy-Website)
-- [Restoran Sederhana Website Improvement Idea Prototype](https://www.figma.com/proto/ZYbTMPfXyrOqaObno5Rfn0/Prototype-Restoran-Sederhana?type=design&node-id=5-2&t=0pi3WhhiSj8IeDEF-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A2&mode=design)
-- [AI Object Detection](https://github.com/JonathanwII/AI-Object-Detection)
-- [Car-E Application](https://github.com/JonathanwII/car-e)
-\
-\
-\
-\
-![github stat](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanwII&theme=blue-green)
