@@ -3,10 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=LuSteps&color=blue" alt="GitHub Visitor Count">
 
 ## 🦰 About Me
-- 🚀 I'm an enthusiastic Computer Science Undergraduate Student
-- 🔭 I’m currently striving to learn Deep Learning in Tensorflow and Keras
-- 🌱 I’m currently working on Deep Learning projects such as Transformer and LSTM
-- ⚡ I'm learning on OpenCV and image recognition on my current classes
+- 🚀 I'm an enthusiastic Computer Science - Intelligent Systems Undergraduate Student, with work experience in web development
+- 🔭 I’m currently striving to learn Deep Learning, especially for narrow task agents in Computer Vision and Natural Language Processing for implementation in business cases
+- 🌱 I’m focused on RAG chatbot concept and Face Recognition System during my current internship to create FAQ app and Pick Up Verification System
+- ⚙️ I developed web apps in CodeIgniter for pure business case, with Django and Streamlit for AI model implementation
+- ⚡ I learned Docker to deploy web apps in Linux environment server
 
 ## 🔗 Contact Me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennislimkamho/)
@@ -16,22 +17,19 @@
 [![GitHub LuSteps](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/LuSteps)
 
 ## 📖 Skills
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![github stat](https://github-readme-stats.vercel.app/api/top-langs/?username=LuSteps&theme=blue-green)
 
